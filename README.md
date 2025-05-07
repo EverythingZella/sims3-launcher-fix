@@ -1,5 +1,21 @@
 # 🛠️ Sims 3 Launcher Fix for Windows 10/11
 
+![Repo Size](https://img.shields.io/github/repo-size/EverythingZella/sims3-launcher-fix)
+![Last Commit](https://img.shields.io/github/last-commit/EverythingZella/sims3-launcher-fix)
+![Markdown](https://img.shields.io/badge/markdown-validated-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![View on GitHub](https://img.shields.io/badge/view--repo-GitHub-blue?logo=github)](https://github.com/EverythingZella/sims3-launcher-fix)
+### 🧰 Tech Stack
+
+![Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=windows)
+![Microsoft Edge](https://img.shields.io/badge/Browser-Microsoft%20Edge-blue?logo=microsoftedge)
+![Internet Explorer Mode](https://img.shields.io/badge/IE--Mode-Enabled-important)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![GitHub Pages](https://img.shields.io/badge/Docs-GitHub%20Pages-green?logo=github)
+![Markdown](https://img.shields.io/badge/Written%20In-Markdown-lightgrey?logo=markdown)
+![The Sims 3](https://img.shields.io/badge/Game-The%20Sims%203-yellowgreen)
+
+
 The Sims 3 Launcher relies on Internet Explorer, which has been removed from newer versions of Windows. This guide shows how to restore partial functionality (like the Welcome and Store tabs) using **Microsoft Edge's Internet Explorer Mode (IE Mode)**.
 
 ---
