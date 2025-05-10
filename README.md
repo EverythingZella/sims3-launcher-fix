@@ -23,7 +23,7 @@ The Sims 3 Launcher relies on Internet Explorer, which has been removed from new
 Here’s what the broken Sims 3 launcher looks like on Windows 10/11 when Internet Explorer is missing:
 
 <p align="center">
-  <img src="images/sims3-launcher-blank-screen.png" alt="Sims 3 Launcher Blank Screen" width="600"/>
+  <img src="Images/sims3-launcher-blank-screen.png" alt="Sims 3 Launcher Blank Screen" width="600"/>
 </p>
 
 
