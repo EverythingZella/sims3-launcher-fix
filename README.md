@@ -18,6 +18,15 @@
 
 The Sims 3 Launcher relies on Internet Explorer, which has been removed from newer versions of Windows. This guide shows how to restore partial functionality (like the Welcome and Store tabs) using **Microsoft Edge's Internet Explorer Mode (IE Mode)**.
 
+## 🖼️ Screenshot: Sims 3 Launcher Blank Screen Bug
+
+Here’s what the broken Sims 3 launcher looks like on Windows 10/11 when Internet Explorer is missing:
+
+<p align="center">
+  <img src="images/sims3-launcher-blank-screen.png" alt="Sims 3 Launcher Blank Screen" width="600"/>
+</p>
+
+
 ---
 
 ## 🧭 Step-by-Step Instructions
@@ -91,4 +100,4 @@ Created by: Zella
 
 Date: May 2025
 
-** Tags: **#Sims3**  **#LauncherFix** **#Windows11** **#EdgeIEMode**  **#GameSupport**
+** Tags: **#Sims3**  **#LauncherFix** **#Windows11** **#EdgeIEMode**  **#GameSupport** **#PlumbobPower**
